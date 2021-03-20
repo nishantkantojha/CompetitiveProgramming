@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-This repository tells about my Competitive Programming journey.
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nishant 
