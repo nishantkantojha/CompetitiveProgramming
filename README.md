@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">,I'm GARUDAA</h1>
+<h1 style = font-size: 100px align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">,I'm GARUDAA</h1>
 <h4 align="center">Competitive Programming Enthusiast</h4>
 
 <p align="center">
