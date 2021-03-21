@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/garudaa.png" height="200px"/>
-</p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">,I'm GARUDAA</h1>
 <h4 align="center">Competitive Programming Enthusiast</h4>
 
