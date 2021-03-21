@@ -8,5 +8,4 @@
 <a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/leetcode.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@garudaa" target="blank"><img align="center" src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/hackerearth.svg" alt="gaurdaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/garudaa/profile" target="blank"><img align="center" src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/geeksforgeeks.svg" alt="gaurdaa" height="30" width="40" /></a>
- <a href = "mailto: nishantkant333@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
