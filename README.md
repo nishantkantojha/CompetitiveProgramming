@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.codechef.com/users/garudaa" target="blank"><img align="center" src="ignore/Icons/codechef.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_teraBaap" target="blank"><img align="center" src="ignore/Icons/codeforces.svg" alt="garudaa" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/garudaa" target="blank"><img align="center" src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/ignore/Icons/AtCoders.png" alt="garudaa" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/garudaa" target="blank"><img align="center" src="https://github.com/nishantkantojha/CompetitiveProgramming/blob/main/ignore/Icons/AtCoders.png" alt="garudaa" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/garudaa" target="blank"><img align="center" src="ignore/Icons/hackerrank.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="ignore/Icons/leetcode.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@garudaa" target="blank"><img align="center" src="ignore/Icons/hackerearth.svg" alt="gaurdaa" height="30" width="40" /></a>
