@@ -9,3 +9,5 @@
 <a href="https://www.hackerearth.com/@garudaa" target="blank"><img align="center" src="ignore/Icons/hackerearth.svg" alt="gaurdaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/garudaa/profile" target="blank"><img align="center" src="ignore/Icons/geeksforgeeks.svg" alt="gaurdaa" height="30" width="40" /></a>
 </p>
+<p align ="centre">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=nishantkantojha/CompetitiveProgramming" alt="visitor badge"/></p>
